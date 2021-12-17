@@ -589,9 +589,7 @@ Node.js, stackblitz and other</li>
           <div class="col-sm-12">
             <div class="title-box text-center">
             
-              <h3 class="title-a">
-                Services
-              </h3>
+            
               <p class="subtitle-a">
               <div id="smart-button-container">
       <div style="text-align: center;">
