@@ -457,11 +457,12 @@ UX design jobs</p>
           </div>
            <div class="resume-item">
             <h4>Web Developer (Part -Time)</h4>
-            <h5>2021</h5>
+            <h5>2021 - Present</h5>
             <p><em> Mrk Development</em></p>
             <p>
             <ul>
               <li>Wordpress Development </li>
+              <li>Web Design </li>
             </ul>
             </p>
           </div>
