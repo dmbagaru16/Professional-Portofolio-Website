@@ -289,23 +289,23 @@
           </div>
           
             <div class="progress">
-            <span class="skill">Themes and Plugin Modification and customization<i class="val">96%</i></span>
+            <span class="skill">Themes and Plugin Opmization and customization<i class="val">90%</i></span>
             <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="96" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
           
           <div class="progress">
-            <span class="skill">Blocksy<i class="val">96%</i></span>
+            <span class="skill">Blocksy Theme<i class="val">90%</i></span>
             <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="96" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="progress">
-            <span class="skill">SEO <i class="val">95%</i></span>
+            <span class="skill">SEO <i class="val">90%</i></span>
             <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
