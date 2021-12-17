@@ -53,7 +53,6 @@
 
       <div class="social-links">
         <a href="https://twitter.com/HirwaTheGreat" class="twitter"><i class="icofont-twitter"></i></a>
-        <a href="https://web.facebook.com/hirwafreelancer" class="facebook"><i class="icofont-facebook"></i></a>
         <a href="https://www.instagram.com/iamperfecthirwa/" class="instagram"><i class="icofont-instagram"></i></a>
         <a href="https://www.linkedin.com/in/niyibizi-hirwa-1ab779181/" class="linkedin"><i class="icofont-linkedin"></i></a>
       </div>
@@ -253,7 +252,7 @@
 
         </div>
     <div class="col-lg-6">
-          <h2>Special Service</h2>
+          <h2>Wordpress Development</h2>
           <div class="progress">
             <span class="skill">WordPress Development  <i class="val">98%</i></span>
             <div class="progress-bar-wrap">
