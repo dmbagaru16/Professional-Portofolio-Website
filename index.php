@@ -156,7 +156,7 @@
       <div class="row skills-content">
 
         <div class="col-lg-6">
-             <h3>Front-End</h3>
+             <h3>Front-End Development</h3>
           <div class="progress">
             <span class="skill">HTML5 - Css3 - Complex Javascript -SaaS<i class="val">100%</i></span>
             <div class="progress-bar-wrap">
