@@ -219,7 +219,7 @@
           
 
           <div class="progress">
-            <span class="skill">Mysql<i class="val">90%</i></span>
+            <span class="skill">Mysql / Lampp<i class="val">90%</i></span>
             <div class="progress-bar-wrap">
               <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
@@ -227,6 +227,12 @@
 
           <div class="progress">
             <span class="skill">Mongo DB <i class="val">80%</i></span>
+            <div class="progress-bar-wrap">
+              <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+          <div class="progress">
+            <span class="skill">NodeJS <i class="val">80%</i></span>
             <div class="progress-bar-wrap">
               <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
@@ -255,12 +261,7 @@
             </div>
           </div>
 
-          <div class="progress">
-            <span class="skill">NodeJS <i class="val">40%</i></span>
-            <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
-            </div>
-          </div>
+          
 
         </div>
     <div class="col-lg-6">
