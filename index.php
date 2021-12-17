@@ -609,6 +609,61 @@ Node.js, stackblitz and other</li>
     </div>
   </section><!-- End Services Section -->
 
+
+  <!-- ======= MyWork Section ======= -->
+  <section id="mywork" class="contact">
+    <div class="container">
+
+      <div class="section-title">
+        <h2>Contact</h2>
+        <p>Contact Me</p>
+      </div>
+
+      <div class="row mt-2">
+
+        <div class="col-md-6 d-flex align-items-stretch">
+          <div class="info-box">
+            <i class="bx bx-map"></i>
+            <h3>My Address</h3>
+            <p>kk 8 Av , Kicukiro ICT INNOVATION CENTER, Kigali Rwanda</p>
+          </div>
+        </div>
+
+        <div class="col-md-6 mt-4 mt-md-0 d-flex align-items-stretch">
+          <div class="info-box">
+            <i class="bx bx-share-alt"></i>
+            <h3>Social Profiles</h3>
+             <div class="social-links">
+        <a href="https://twitter.com/HirwaTheGreat" class="twitter"><i class="icofont-twitter"></i></a>
+        <a href="https://web.facebook.com/hirwafreelancer" class="facebook"><i class="icofont-facebook"></i></a>
+        <a href="https://www.instagram.com/iamperfecthirwa/" class="instagram"><i class="icofont-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/niyibizi-hirwa-1ab779181/" class="linkedin"><i class="icofont-linkedin"></i></a>
+        
+        
+      </div>
+          </div>
+        </div>
+
+        <div class="col-md-6 mt-4 d-flex align-items-stretch">
+          <div class="info-box">
+            <i class="bx bx-envelope"></i>
+            <h3>Email Me</h3>
+            <p>hirwadeveloper@gmail.com.com</p>
+          </div>
+        </div>
+        <div class="col-md-6 mt-4 d-flex align-items-stretch">
+          <div class="info-box">
+            <i class="bx bx-phone-call"></i>
+            <h3>Call Me</h3>
+            <p>+250 789 20 777 8</p>
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+  </section><!-- End My Work Section Section -->
+
   <!-- ======= Contact Section ======= -->
   <section id="contact" class="contact">
     <div class="container">
