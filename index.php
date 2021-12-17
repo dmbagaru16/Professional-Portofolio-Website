@@ -596,8 +596,7 @@ Node.js, stackblitz and other</li>
               <div id="smart-button-container">
       <div style="text-align: center;">
         <div style="margin-bottom: 1.25rem;">
-          <p>Hire me</p>
-          <h2>From 140,000 fRW  - 4,300,000 FrW</h2>
+          <h1>Hire me</h1>
           <select style="visibility: hidden" id="quantitySelect"></select>
         </div>
       <div id="paypal-button-container"></div>
