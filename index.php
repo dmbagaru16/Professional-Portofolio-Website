@@ -177,6 +177,18 @@
               <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
+          <div class="progress">
+            <span class="skill">Figma<i class="val">95%</i></span>
+            <div class="progress-bar-wrap">
+              <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+          <div class="progress">
+            <span class="skill">Adobe XD<i class="val">95%</i></span>
+            <div class="progress-bar-wrap">
+              <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
 
           <div class="progress">
             <span class="skill">Tailwind CSS<i class="val">80%</i></span>
