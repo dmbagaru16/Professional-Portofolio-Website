@@ -73,7 +73,7 @@
 
       <div class="row">
         <div class="col-lg-4" data-aos="fade-right">
-          <img src="assets/img/me.jpg" class="img-fluid" alt="" style="border-radius:10px;">
+          <img src="assets/img/me.png" class="img-fluid" alt="" style="border-radius:10px;">
         </div>
         <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
           <h3>UI/UX &amp; Web developer</h3>
