@@ -621,7 +621,7 @@ Node.js, stackblitz and other</li>
       </div>
 
       <div class="row mt-2">
-       <a href="https://tkd.co.rw"> TSUTED KIGALI DEVELOPERS</a>
+       <a href="https://tkd.co.rw"> TRUSTED KIGALI DEVELOPERS</a>
 </div>
 
     </div>
