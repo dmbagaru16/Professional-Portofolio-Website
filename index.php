@@ -621,7 +621,7 @@ Node.js, stackblitz and other</li>
       </div>
 
       <div class="row mt-2">
-      I am FOunder of TRUSTED KIGALI DEVELOPERS , You can Visiti my Website in order tosee my Work  <a href="https://tkd.co.rw"> TRUSTED KIGALI DEVELOPERS</a>
+      I am Founder of TRUSTED KIGALI DEVELOPERS , You can Visiti my Website in order tosee my Work  <a href="https://tkd.co.rw"> TRUSTED KIGALI DEVELOPERS</a>
 </div>
 
     </div>
