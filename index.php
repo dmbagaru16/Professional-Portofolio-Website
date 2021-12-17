@@ -254,24 +254,30 @@
     <div class="col-lg-6">
           <h2>Wordpress Development</h2>
           <div class="progress">
-            <span class="skill">WordPress Development  <i class="val">98%</i></span>
+            <span class="skill">WordPress Theme Development  <i class="val">95%</i></span>
             <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="98" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+          <div class="progress">
+            <span class="skill">WordPress Plugin Development  <i class="val">94%</i></span>
+            <div class="progress-bar-wrap">
+              <div class="progress-bar" role="progressbar" aria-valuenow="94" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
           
 
           <div class="progress">
-            <span class="skill">Elementor<i class="val">96%</i></span>
+            <span class="skill">Elementor Page Builder<i class="val">92%</i></span>
             <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="96" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="92" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="progress">
-            <span class="skill">Beaver Builder <i class="val">96%</i></span>
+            <span class="skill">Beaver Page Builder <i class="val">92%</i></span>
             <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="96" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="92" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
           
